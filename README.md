@@ -13,6 +13,5 @@ Technologies used:
 1. Java Eclipse (IDE)
 2. Java Swing for GUI
 
-Link to Video: [Video](https://drive.google.com/drive/folders/1GiRz2TK2ec12oP3bzmf9sx6O9PPfwRNE)
 
 
