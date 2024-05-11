@@ -1,4 +1,3 @@
-SymptoScan: 
 SymptoScan is a symptom-based disease diagnosis system utilizing binary tree data structure. The system will prompt users to input their symptoms using an initial question set after which they will be asked follow up questions. Upon completion, it will provide the user with the most likely diagnosis or a list of potential conditions, along with relevant information about each. The goal is to create an intuitive and accurate platform for self-assessment of medical symptoms, aiding users in seeking appropriate medical advice and treatment.
 
 Features: 
