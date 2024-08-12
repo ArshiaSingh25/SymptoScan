@@ -129,11 +129,11 @@ class MedicalCardDisplay {
            }
            else if(diagnosis=="Food Poisoning or Appendicitis(Probability:90-100%)")
            {
-         	   lnk="https://drive.google.com/file/d/17KgWsIiYy7ud7J_C_E4lPMVGgW9oGQM7/view";
+         	   lnk="https://drive.google.com/drive/u/0/folders/1GiRz2TK2ec12oP3bzmf9sx6O9PPfwRNE";
            }
            else if(diagnosis=="Common Cold(Probability:90-100%)")
            {
-         	   lnk="https://drive.google.com/file/d/17KgWsIiYy7ud7J_C_E4lPMVGgW9oGQM7/view";
+         	   lnk="https://drive.google.com/drive/u/0/folders/1GiRz2TK2ec12oP3bzmf9sx6O9PPfwRNE";
            }
            else if(diagnosis=="Hormonal Fluctuations(Probability:90-100%)")
            {
@@ -200,7 +200,7 @@ class MedicalCardDisplay {
          	   lnk="https://www.webmd.com/skin-problems-and-treatments/eczema/atopic-dermatitis-eczema";
            }
            else
-           {   lnk="https://drive.google.com/file/d/17KgWsIiYy7ud7J_C_E4lPMVGgW9oGQM7/view";
+           {   lnk="https://drive.google.com/drive/u/0/folders/1GiRz2TK2ec12oP3bzmf9sx6O9PPfwRNE";
            }
 
            Color darkBlue = new Color(0, 0, 128);
